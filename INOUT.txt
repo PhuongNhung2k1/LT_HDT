@@ -1,0 +1,10 @@
+thong tin tam giac P
+ 3 canh tam giac :
+3 4 5
+CHU VI TAM GIAC:60
+
+thong tin tam giac Q
+ 3 canh tam giac :
+1 3 2
+CHU VI TAM GIAC:6
+

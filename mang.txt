@@ -1,0 +1,3 @@
+
+mang sau khi sap xep tang la:-9  -8  3  4  12  
+mang sau khi sap xep giam la:12  4  3  -8  -9  

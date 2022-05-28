@@ -1,0 +1,6 @@
+
+mang thu nhat sau khi sap xep giam la:
+5  4  -6  
+
+mang hai nhat sau khi sap xep giam la:
+7  6  4  -2  
